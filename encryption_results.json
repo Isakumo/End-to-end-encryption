@@ -1,0 +1,24 @@
+[
+    {
+        "encryption_time_ms": 2.053,
+        "decryption_time_ms": 0.1,
+        "key_encapsulation_time_ms": 3.758,
+        "key_decapsulation_time_ms": 0.596,
+        "cipher": "AES-GCM",
+        "key_size": 256,
+        "mode": "local",
+        "message_len": 17,
+        "_captured_at": "2025-09-14T00:05:08.188516Z"
+    },
+    {
+        "encryption_time_ms": 48.85,
+        "decryption_time_ms": 0.091,
+        "key_encapsulation_time_ms": 518.415,
+        "key_decapsulation_time_ms": 0.771,
+        "cipher": "AES-GCM",
+        "key_size": 256,
+        "mode": "local",
+        "message_len": 17,
+        "_captured_at": "2025-09-14T00:30:11.213535Z"
+    }
+]
