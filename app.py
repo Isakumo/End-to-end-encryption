@@ -70,6 +70,7 @@ def load_results():
 # --- Streamlit UI ---
 st.set_page_config(page_title="Multimedia Encryption System", layout="wide")
 st.title("🔒 End-to-End Multimedia Encryption System")
+st.header("By Bashiru Hammanadama CSC/20d/4131")
 
 option = st.sidebar.radio("Choose Action", ["Send Text", "Send File", "View Results"])
 
@@ -149,3 +150,4 @@ elif option == "View Results":
             st.pyplot(fig)
     else:
         st.warning("No results found yet.")
+
